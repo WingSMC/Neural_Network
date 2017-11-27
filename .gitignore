@@ -1,0 +1,11 @@
+.vs/
+Debug/
+ipch/
+x64/
+Neural_Network/Debug/
+Neural_Network/x64/
+Neural_Network/Debu/
+
+*.vcxproj*
+*.sln
+*.sdf
